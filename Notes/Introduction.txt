@@ -1,5 +1,6 @@
-Ruby is is high  level programming language.
-# This is a comment in Ruby
+Ruby is a pure Object-Oriented language developed by Yukihiro Matsumoto (also known as Matz in the Ruby community) in the mid 1990’s in Japan. Everything in Ruby is an object except the blocks but there are replacements too for it i.e procs and lambda. The objective of Ruby’s development was to make it act as a sensible buffer between human programmers and the underlying computing machinery. Ruby has similar syntax to that of many programming languages like C and Java, so it is easy for Java and C programmers to learn. It supports mostly all the platforms like Windows, Mac, Linux.
+
+Ruby is based on many other languages like Perl, Lisp, Smalltalk, Eiffel and Ada. It is an interpreted scripting language which means most of its implementations execute instructions directly and freely, without previously compiling a program into machine-language instructions. Ruby programmers also have access to the powerful RubyGems (RubyGems provides a standard format for Ruby programs and libraries).# This is a comment in Ruby
 
 # Define a variable
 message = "Hello, world!"
