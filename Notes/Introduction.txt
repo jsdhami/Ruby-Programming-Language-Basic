@@ -1,0 +1,8 @@
+Ruby is is high  level programming language.
+# This is a comment in Ruby
+
+# Define a variable
+message = "Hello, world!"
+
+# Print the variable
+puts message
