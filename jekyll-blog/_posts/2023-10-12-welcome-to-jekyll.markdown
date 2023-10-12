@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "JS Dhami Blog!"
 date:   2023-10-12 15:35:58 +0545
 categories: jekyll update
 ---
